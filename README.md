@@ -46,4 +46,5 @@ The dataset includes order dates, customers, regions, products, categories, quan
 
 ## Project Status
 Power BI dashboard completed and tested.
-
+## Dashboard Preview
+![Retail Sales Performance Dashboard](dashboard-overwiew.png)
